@@ -124,6 +124,8 @@ Are individuals with sleep disorders more likely to experience high heart rates 
 
 ### Content 
 
+Dataset Summary comments layout inspired by: https://www.kaggle.com/code/sulaniishara/sleep-wellbeing 
+
 - The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement form validation on the Sign-Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
