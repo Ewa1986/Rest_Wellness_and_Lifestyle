@@ -1,20 +1,69 @@
 # Project Rest Wellness and Lifestyle
 
-**Project XYZ** is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
+**Project Rest Wellness and Lifestyle** is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
 
-# ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+
+
+# ![what is wellness ](https://lirp.cdn-website.com/6aa52cbd/dms3rep/multi/opt/what+is+wellness-1920w.jpg)
 
 
 ## Dataset Content
-* Describe your dataset. Choose a dataset of reasonable size to avoid exceeding the repository's maximum size of 100Gb.
+* Synthetic data set created by Laksika Tharmalingam for illustrative purposes. The Sleep Health and Lifestyle Dataset comprises 400 rows and 13 columns, covering a wide range of variables related to sleep and daily habits. It includes details such as gender, age, occupation, sleep duration, quality of sleep, physical activity level, stress levels, BMI category, blood pressure, heart rate, daily steps, and the presence or absence of sleep disorders. It has been stored on Kaggle (https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/data).
 
+* Dataset Columns:
+Person ID: An identifier for each individual.
+
+Gender: The gender of the person (Male/Female).
+
+Age: The age of the person in years.
+
+Occupation: The occupation or profession of the person.
+
+Sleep Duration (hours): The number of hours the person sleeps per day.
+
+Quality of Sleep (scale: 1-10): A subjective rating of the quality of sleep, ranging from 1 to 10.
+
+Physical Activity Level (minutes/day): The number of minutes the person engages in physical activity daily.
+
+Stress Level (scale: 1-10): A subjective rating of the stress level experienced by the person, ranging from 1 to 10.
+
+BMI Category: The BMI category of the person (e.g., Underweight, Normal, Overweight).
+
+Blood Pressure (systolic/diastolic): The blood pressure measurement of the person, indicated as systolic pressure over diastolic pressure.
+
+Heart Rate (bpm): The resting heart rate of the person in beats per minute.
+
+Daily Steps: The number of steps the person takes per day.
+
+Sleep Disorder: The presence or absence of a sleep disorder in the person (None, Insomnia, Sleep Apnea).
+
+* Details about Sleep Disorder Column:
+
+None: The individual does not exhibit any specific sleep disorder.
+
+Insomnia: The individual experiences difficulty falling asleep or staying asleep, leading to inadequate or poor-quality sleep.
+
+Sleep Apnea: The individual suffers from pauses in breathing during sleep, resulting in disrupted sleep patterns and potential health risks.
 
 ## Business Requirements
-* Describe your business requirements
+* Objective:
+To analyze the impact of physical activity, stress, BMI, daily steps, and sleep disorders on sleep quality using data-driven insights. The goal is to validate key hypotheses and provide actionable recommendations for improving sleep health.
+
+Key Questions to Address:
+How does physical activity influence sleep quality?
+What is the correlation between stress levels and sleep duration?
+How does BMI category affect sleep quality?
+Do daily steps impact sleep duration and quality?
+Are individuals with sleep disorders more likely to experience high heart rates and blood pressure?
 
 
 ## Hypothesis and how to validate?
-* List here your project hypothesis(es) and how you envision validating it (them) 
+* Higher physical activity levels are associated with better sleep quality.
+* Increased stress levels correlate with lower sleep quality and shorter sleep duration.
+* Individuals classified as obese have lower sleep quality compared to those with normal BMI.
+* More daily steps correlate with better sleep duration and quality.
+* People with sleep disorders (e.g., Sleep Apnea) have higher blood pressure and heart rates.
+
 
 ## Project Plan
 * Outline the high-level steps taken for the analysis.
