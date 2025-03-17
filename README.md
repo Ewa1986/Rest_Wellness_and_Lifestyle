@@ -12,6 +12,7 @@
 * Synthetic data set created by Laksika Tharmalingam for illustrative purposes. The Sleep Health and Lifestyle Dataset comprises 400 rows and 13 columns, covering a wide range of variables related to sleep and daily habits. It includes details such as gender, age, occupation, sleep duration, quality of sleep, physical activity level, stress levels, BMI category, blood pressure, heart rate, daily steps, and the presence or absence of sleep disorders. It has been stored on Kaggle (https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/data).
 
 * Dataset Columns:
+
 Person ID: An identifier for each individual.
 
 Gender: The gender of the person (Male/Female).
@@ -251,7 +252,7 @@ While working on the project, I did recognize a few gaps in my knowledge, partic
 
 ## Main Data Analysis Libraries
 
-For the data visualisation used plotly as it supports a wide range of charts like 3D plots.
+Plotly is used for data visualisation as it supports a wide range of charts like 3D plots.
 
 
 ## Credits 
@@ -261,6 +262,8 @@ For the data visualisation used plotly as it supports a wide range of charts lik
 ### Content 
 
 Dataset taken from: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/data
+
 Dataset Summary comments layout taken from: https://www.kaggle.com/code/sulaniishara/sleep-wellbeing 
+
 Picture what is wellness taken from: https://lirp.cdn-website.com/6aa52cbd/dms3rep/multi/opt/what+is+wellness-1920w.jpg
 
